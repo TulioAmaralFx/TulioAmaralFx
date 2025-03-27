@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Túlio Amaral
 **'Desenvolvedor em prática'**
 
-Me chamo Túlio Fernandes Amaral, tenho 23 anos e sou natural do Goiàs. Concluí o ensino médio no CEPAE-UFG. Atualmente, estou cursando Sistema de informação na UFG. Sou apaixonado por programação desde os 12 anos de idade, sempre busquei aprimorar a minha lógica em programação por gostar da área de automação de projetos. Busco me aprimorar e adquirir novas habilidades ao adentrar nesta vaga, prezo pela organização, precisão e produtividade, estarei contribuindo com soluções eficientes, relacionando com a minha experiência adquiridas e as que irei adquirir. Gosto bastante de novas ideias e de interagir com terceiros sobre pensamentos, acredito que união entre pensamentos gerará algo novo e diferente
+Me chamo Túlio Fernandes Amaral, tenho 23 anos e sou natural do Goiàs. Concluí o ensino médio no CEPAE-UFG. Atualmente, estou cursando Sistema de informação na UFG. Sou apaixonado por programação desde os 12 anos de idade, sempre busquei aprimorar a minha lógica em programação por gostar da área de automação de projetos.
 
 <p align="left"> 
     <a href="https://github.com/TulioAmaralFx?tab=repositories&sort=stargazers">
