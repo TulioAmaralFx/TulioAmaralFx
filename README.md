@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Túlio Amaral
-**'Desenvolvedor em prática'**
+**Desenvolvedor em prática**
 
 Me chamo Túlio Fernandes Amaral, tenho 23 anos e sou natural do Goiàs. Concluí o ensino médio no CEPAE-UFG. Atualmente, estou cursando Sistema de informação na UFG. Sou apaixonado por programação desde os 12 anos de idade, sempre busquei aprimorar a minha lógica em programação por gostar da área de automação de projetos.
 
