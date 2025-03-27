@@ -54,7 +54,7 @@ Me chamo Túlio Fernandes Amaral, tenho 23 anos e sou natural do Goiàs. Conclu�
     title="Vue"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vue/vue-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
 <img 
     align="left" 
