@@ -1,7 +1,7 @@
 #  Túlio Amaral
 **Desenvolvedor em treinamento**
 
-Me chamo Túlio Fernandes Amaral, tenho 23 anos e sou natural do Goiàs. Concluí o ensino médio no CEPAE-UFG. Atualmente, estou cursando Sistema de informação na UFG. Sou apaixonado por programação desde os 12 anos de idade, sempre busquei aprimorar a minha lógica em programação por gostar da área de automação de projetos.
+Desenvolvedor FullStack em ascensão com sólida experiência prática na construção de projetos pessoais e acadêmicos em Java, React, Python e C. Capacidade comprovada de automatizar fluxos de trabalho administrativos em Python e Excel, proporcionando ganhos mensuráveis em velocidade e precisão. Apaixonado por desenvolvimento de software, rápido aprendizado e comprometido em contribuir para equipes de tecnologia de alto desempenho. Aberto a oportunidades de nível júnior para crescer e entregar resultados por meio de código.
 
 <p align="left"> 
     <a href="https://github.com/britojp?tab=repositories&sort=stargazers">
