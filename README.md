@@ -1,5 +1,5 @@
 #  Túlio Amaral
-**Desenvolvedor em treinamento**
+**Desenvolvedor FullStack**
 
 Desenvolvedor FullStack em ascensão com sólida experiência prática na construção de projetos pessoais e acadêmicos em Java, React, Python e C. Capacidade comprovada de automatizar fluxos de trabalho administrativos em Python e Excel, proporcionando ganhos mensuráveis em velocidade e precisão. Apaixonado por desenvolvimento de software, rápido aprendizado e comprometido em contribuir para equipes de tecnologia de alto desempenho. Aberto a oportunidades de nível júnior para crescer e entregar resultados por meio de código.
 
